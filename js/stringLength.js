@@ -6,6 +6,4 @@ function stringLength(str) {
     }
    throw new Error ('Wrong String!');
 }
-
-// console.log(stringLength('HelloWorld!@@@'));
 module.exports = stringLength;
